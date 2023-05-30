@@ -1,0 +1,15 @@
+D:\Lessons\csmassdz\sample1\bin\Debug\net7.0\sample1.exe
+D:\Lessons\csmassdz\sample1\bin\Debug\net7.0\sample1.deps.json
+D:\Lessons\csmassdz\sample1\bin\Debug\net7.0\sample1.runtimeconfig.json
+D:\Lessons\csmassdz\sample1\bin\Debug\net7.0\sample1.dll
+D:\Lessons\csmassdz\sample1\bin\Debug\net7.0\sample1.pdb
+D:\Lessons\csmassdz\sample1\obj\Debug\net7.0\sample1.csproj.AssemblyReference.cache
+D:\Lessons\csmassdz\sample1\obj\Debug\net7.0\sample1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lessons\csmassdz\sample1\obj\Debug\net7.0\sample1.AssemblyInfoInputs.cache
+D:\Lessons\csmassdz\sample1\obj\Debug\net7.0\sample1.AssemblyInfo.cs
+D:\Lessons\csmassdz\sample1\obj\Debug\net7.0\sample1.csproj.CoreCompileInputs.cache
+D:\Lessons\csmassdz\sample1\obj\Debug\net7.0\sample1.dll
+D:\Lessons\csmassdz\sample1\obj\Debug\net7.0\refint\sample1.dll
+D:\Lessons\csmassdz\sample1\obj\Debug\net7.0\sample1.pdb
+D:\Lessons\csmassdz\sample1\obj\Debug\net7.0\sample1.genruntimeconfig.cache
+D:\Lessons\csmassdz\sample1\obj\Debug\net7.0\ref\sample1.dll
